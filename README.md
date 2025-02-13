@@ -6,5 +6,4 @@ Supported on Raydium, Jupiter and Pumpfun
 
 # 👤 Author
 
-### Telegram: [Dillon](https://t.me/dillon0130)   
-https://t.me/dillon0130
+### Telegram: [Dillon](https://t.me/DillonSolai)   
